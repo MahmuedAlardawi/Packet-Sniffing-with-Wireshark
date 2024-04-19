@@ -7,5 +7,5 @@ used for analysis on both real-time and offline. To meet these objectives, Wires
 tool is used to capture the network packets and analyze data received/sent to the 
 network.
 
-Download Wireshark on your computer 
-● http://www.wireshark.org/download.html
+Download Wireshark on your computer
+http://www.wireshark.org/download.html
